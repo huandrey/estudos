@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://proj/./src/index.js"],"names":["console","log"],"mappings":";;;;AAAA;AACA;AACA;AACAA,OAAO,CAACC,GAAR,CAAY,KAAZ,E","file":"bundle.js","sourcesContent":["//\n//\n//\nconsole.log('ola')"],"sourceRoot":""}
